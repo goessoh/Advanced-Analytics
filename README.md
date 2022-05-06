@@ -1,2 +1,2 @@
 # Hotel-Recommendation-Analysis
- This repository demonstrates my ability to use advanced analysis methods using Python and R.
+ Hotel recommendations are one of the most popular and widely used features of travel sites. This project aims to conduct an exploratory data analysis, perform variable engineering and predetermine the best models for an optimal recommendation.
